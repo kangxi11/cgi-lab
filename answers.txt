@@ -1,0 +1,7 @@
+1. import os then print os.environ
+2. QUERY_STRING (https://www.oreilly.com/openbook/cgi/ch02_02.html)
+3. HTTP_USER_AGENT (https://www.oreilly.com/openbook/cgi/ch02_02.html)
+4. form = cgi.FieldStorage()
+5. Set-Cookie: {key}={value}
+6. Cookie: {key}={value}
+7. Cookies save information about a user to persist the data
